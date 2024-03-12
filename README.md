@@ -1,6 +1,7 @@
 # p-Median and Maximal Coverage Location Problems
 - Course: Optimization and Analytics
 - Grade: 9.8/10
+
 This repository contains solutions to the p-Median and Maximal Coverage Location problems. The objective function, sets, parameters, and constraints are defined both visually and mathematically.
 
 ## Problem Description
