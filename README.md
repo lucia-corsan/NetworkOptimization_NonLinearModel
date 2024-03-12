@@ -16,7 +16,7 @@ The problems are solved using the following solvers:
 
 ## Contents
 
-- `src/`: Contains the source code for solving the problems.
+- `Cordero-Lucia-HW2.ipynb`: Contains the source code for solving the problems.
 - `examples/`: Contains example input data and scripts for running the solvers.
 - `docs/`: Contains documentation on the problem formulations and solution approaches.
 
