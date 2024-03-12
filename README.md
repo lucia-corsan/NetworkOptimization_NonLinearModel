@@ -17,16 +17,15 @@ The problems are solved using the following solvers:
 ## Contents
 
 - `Cordero-Lucia-HW2.ipynb`: Contains the source code for solving the problems.
-- `examples/`: Contains example input data and scripts for running the solvers.
-- `docs/`: Contains documentation on the problem formulations and solution approaches.
+- `Cordero-Lucia-HW2.html`: Contains the source code and documentation in .HTML format.
+- `radiuses.dat`: Contains data to solve one of the non-linear optimization problems.
 
 ## Usage
 
-To use the solvers, install the required dependencies and run the scripts in the `examples/` directory.
+To use the solvers, install the required dependencies, download the `Cordero-Lucia-HW2.ipynb` file and run the script.
 
 ```bash
 pip install gurobipy pyomo ipopt
-python examples/run_solver.py
 ```
 
 ## Contributing
