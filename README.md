@@ -1,5 +1,5 @@
 # p-Median and Maximal Coverage Location Problems
-- Presented at Google x Zara Datathon 2023 to optimize their routing system, winning 1st prize.
+- Presented at **Google x Zara Datathon 2023** to optimize their routing system, winning 1st prize.
 - Course: Optimization and Analytics
 - Grade: 9.8/10
 
